@@ -1,0 +1,171 @@
+body{
+
+	background-color:#d1d1d1;
+
+}
+.container{
+
+}
+.one{
+	text-align: center;
+	background-color:#3b5367;
+}	
+h1{
+    text-align: center;
+	background-color:#2f4351;
+}
+h2{
+	color:#fff;
+	 }
+h3{
+	letter-spacing: 2px;
+	color:#f7ce06;
+}
+h4{
+   font-weight: bolder;
+   background-color:#f7ce06;
+   height:40px;
+   padding:8px;
+}
+h5{
+	float:left;
+}
+img{
+	float:left;
+
+}	
+.Two{
+	 background-color:#fff;
+	 width:90%;
+	 margin:60px auto;
+	 padding-bottom:15px 
+
+
+}
+
+.Three{
+	background-color: #fff;
+	padding-top:0px;
+	padding-bottom: 90px;
+	margin: 0px auto;
+	border:50px;
+	width:45% ;
+	float:left;
+	margin-left: 63px;
+}
+   
+.four{
+	width: 40%;
+
+	margin-top: 35px;
+	background-color:#fff ;
+	margin-left:5%;
+	
+}
+
+
+.me{
+	background-color: #f7ce06 ;
+	width:100%;
+	height:70px;
+	text-align: center;
+	padding-top: 0px;
+	font-weight: bolder;
+
+
+
+
+}
+
+.five{
+	background-color: #fff;
+	width:45%;
+	padding-bottom:90px;
+	float: right;
+	margin-right: 60px;
+
+
+}
+.six{
+
+}
+
+.my{
+	background-color:#f7ce06;
+	height: 70px;
+    
+
+}
+
+
+
+
+
+.cont{
+	
+	margin: 30px;
+	width: 90%;
+	padding:2px;
+	margin-top: 30px;
+	border-top: 30px;
+   
+	
+}
+.cont table {
+	margin:30px;
+	width:1215px;
+	padding: 90px;
+	border-collapse: collapse;
+	border:2px solid #ccc;
+
+	background-color:#FFf;
+	min-height:80px;
+	padding-right:9px;
+	 border-collapse: collapse;
+	 padding-top: 2px;
+	 padding-bottom: 5px;
+	 
+	
+}
+.cont table tr {
+   border-bottom:2px solid #ccc;
+   padding:6px;
+    height: 40px;
+     border-bottom: 4px ;
+  }
+.cont table tr th{
+	text-align:left;
+	padding:19px;
+	background-color: #f7ce06;
+	padding-right: 22px;
+
+
+}
+.cont table tr:last-child{
+	background-color:blue;
+	height:15px;
+
+}
+.cont table tr{
+	border-bottom: 2px solid #ccc;
+}
+
+
+.cont table tr td{
+	height: 5px;
+	padding:15px;
+    border-right: 2px solid #ccc;
+	
+}
+.footer{
+	background-color: #2f4351;
+	padding-top: 40px;
+	float:center;
+  margin:0 auto;
+ border: 50px;
+
+}
+
+ 
+    
+
